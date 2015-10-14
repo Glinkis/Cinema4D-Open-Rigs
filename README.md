@@ -3,10 +3,13 @@ Sharing is caring! This repository aims at creating and sharing rigs for Cinema4
 
 **Rig information:**
 
-*zipper
+####zipper
 A zipper rig.
+
 R17 Studio
 
-*refraction-hiding-trick
+
+####refraction-hiding-trick
 Shows how partially hiding objects can be achieved with refraction.
+
 R17 Studio
