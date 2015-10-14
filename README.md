@@ -13,3 +13,9 @@ R17 Studio
 Shows how partially hiding objects can be achieved with refraction.
 
 R17 Studio
+
+
+####shader-effector-landscape
+Creates a procedural landscape using only shader effectors and cloners.
+
+R17 Studio
