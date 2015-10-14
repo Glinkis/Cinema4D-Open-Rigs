@@ -19,3 +19,8 @@ R17 Studio
 Creates a procedural landscape using only shader effectors and cloners.
 
 R17 Studio
+
+####baking-thinking-particles
+Shows how you can bake thinking particles by using a cloner and a cache tag.
+
+R17 Studio
